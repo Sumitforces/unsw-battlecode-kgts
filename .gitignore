@@ -1,0 +1,20 @@
+# replays
+*.replay
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C/C++ build output
+*.o
+*.wasm
+build/
+
+# editor/OS
+.vscode/
+.DS_Store
+
+# toolkit
+.unswbc/
