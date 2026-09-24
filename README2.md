@@ -1,5 +1,8 @@
 # README2 — where strategy code goes
 
+---> gng this is our main guide of what to do what to edit in what file.
+---> refer to this readme only. 
+
 This is the map of the codebase for when we start cooking up actual
 play. Short version: **almost everything you write goes in
 `bots/main/main.py`. Don't touch `helper.py` unless the protocol

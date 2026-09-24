@@ -1,5 +1,9 @@
 # unsw-battlecode-kgts
 
+
+--> checkout readme2 for details if you wanna edit the idea, or implment an idea. 
+--> thats it.
+
 Team repo for UNSW Battlecode (the "sea dragons" game). This holds the
 toolkit project layout for our submissions — no strategy in here yet,
 just the boilerplate needed to build, test and submit a bot.
